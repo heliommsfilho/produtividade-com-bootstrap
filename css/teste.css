@@ -1,0 +1,20 @@
+.caixa1 {
+	background-color: #0f0;
+	line-height: 3.0;
+	width: 50px;
+	display: inline;
+}
+
+.caixa2 {
+	background-color: #00f;
+	line-height: 3.0;
+	width: 50px;
+	display: inline;
+}
+
+.caixa3 {
+	background-color: #f00;
+	line-height: 3.0;
+	width: 50px;
+	display: inline;
+}
